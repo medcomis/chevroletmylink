@@ -1,0 +1,14 @@
+On My Chevrolet 2016, I converted movies with parameters:
+
+Video:
+Encoder: MPEG4
+Resolution: 720x480
+Frame Rate: 24fps
+Video Birates: 512 kbps
+Aspect Ratio: Auto
+
+Audio:
+Encoder: AAC or MPEG-2
+Sample Rate: 441000 Hz
+Channels: 2 channels Stereo
+Audio Birates: 128 kbps
